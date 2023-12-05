@@ -1,0 +1,8 @@
+-- Building ESP-IDF components for target esp32c3
+Dependencies lock doesn't exist, solving dependencies.
+...Updating lock file at D:\CapacitacionESP32\Capacitacion\dependencies.lock
+Processing 2 dependencies:
+[1/2] espressif/led_strip (2.5.2)
+[2/2] idf (5.1.2)
+-- Configuring incomplete, errors occurred!
+See also "D:/CapacitacionESP32/Capacitacion/build/CMakeFiles/CMakeOutput.log".

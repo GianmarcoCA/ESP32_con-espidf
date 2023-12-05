@@ -30,7 +30,10 @@
         "uart.h": "c",
         "i2c.h": "c",
         "string_view": "c",
-        "regex": "c"
+        "regex": "c",
+        "*.tcc": "c",
+        "esp_flash.h": "c",
+        "nvs.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled",
     "idf.flashType": "UART",

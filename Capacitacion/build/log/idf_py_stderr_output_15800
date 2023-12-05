@@ -1,0 +1,12 @@
+CMake Error at C:/ESP32/esp-idf/tools/cmake/component.cmake:250 (message):
+  ERROR: Cannot process component requirements.  Multiple candidates to
+  satisfy project requirements:
+
+    requirement: "led_strip" candidates: "led_strip, espressif__led_strip"
+
+Call Stack (most recent call first):
+  C:/ESP32/esp-idf/tools/cmake/build.cmake:574 (__component_get_requirements)
+  C:/ESP32/esp-idf/tools/cmake/project.cmake:547 (idf_build_process)
+  CMakeLists.txt:8 (project)
+
+

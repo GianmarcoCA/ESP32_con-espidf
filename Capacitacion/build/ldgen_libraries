@@ -56,9 +56,9 @@ D:/CapacitacionESP32/Capacitacion/build/esp-idf/sdmmc/libsdmmc.a
 D:/CapacitacionESP32/Capacitacion/build/esp-idf/fatfs/libfatfs.a
 D:/CapacitacionESP32/Capacitacion/build/esp-idf/test/libtest.a
 D:/CapacitacionESP32/Capacitacion/build/esp-idf/json/libjson.a
-D:/CapacitacionESP32/Capacitacion/build/esp-idf/led_strip/libled_strip.a
 D:/CapacitacionESP32/Capacitacion/build/esp-idf/mqtt/libmqtt.a
 D:/CapacitacionESP32/Capacitacion/build/esp-idf/spiffs/libspiffs.a
 D:/CapacitacionESP32/Capacitacion/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
+D:/CapacitacionESP32/Capacitacion/build/esp-idf/espressif__led_strip/libespressif__led_strip.a
 D:/CapacitacionESP32/Capacitacion/build/esp-idf/main/libmain.a
 D:/CapacitacionESP32/Capacitacion/build/esp-idf/rgb_led/librgb_led.a

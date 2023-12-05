@@ -18,9 +18,6 @@
 CCACHE_ENABLE:UNINITIALIZED=0
 
 //Path to a program.
-CCACHE_FOUND:FILEPATH=C:/ESP32/.espressif/tools/ccache/4.8/ccache-4.8-windows-x86_64/ccache.exe
-
-//Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=C:/ESP32/.espressif/tools/riscv32-esp-elf/esp-12.2.0_20230208/riscv32-esp-elf/bin/riscv32-esp-elf-addr2line.exe
 
 //Path to a program.
